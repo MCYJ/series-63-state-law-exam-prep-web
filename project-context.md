@@ -34,3 +34,9 @@
 - `npm run build`
 - `npm run check`
 - Production QA must cover every sitemap route, assets, custom 404, exact Play identity, absent Apple link and badge-frame CSS.
+
+## Deployment — 2026-09-19
+
+- Public GitHub repository created and GitHub Actions Pages enabled.
+- Successful initial deployment run: `35372474335`.
+- Production QA passed for all 19 sitemap routes, seven representative assets, custom 404, exact Play identity, disabled Apple state, global `keep-all` and equal `194 × 75` marketplace frames.
