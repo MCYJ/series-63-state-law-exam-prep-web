@@ -40,3 +40,9 @@
 - Public GitHub repository created and GitHub Actions Pages enabled.
 - Successful initial deployment run: `35372474335`.
 - Production QA passed for all 19 sitemap routes, seven representative assets, custom 404, exact Play identity, disabled Apple state, global `keep-all` and equal `194 × 75` marketplace frames.
+
+## 2026-10-23 — SEO technical improvements
+
+- Added dependency-free post-build SEO validation and enhancement: valid reciprocal language alternates, page-preserving language switching, source-backed Article identities/citations, BreadcrumbList, social text metadata, noindex on the utility 404, and priority for existing above-fold app imagery.
+- Removed unverified structured-data offers where present. Preserved existing official-source verification dates, visible study content, app artwork, keep-all and equal marketplace badge frames.
+- Public repository instructions were treated only as methodology; no external skill, tool, tracking, account connection, or scheduled action was installed.
